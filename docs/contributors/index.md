@@ -1,48 +1,132 @@
 ---
-description: "Meet the community members who make this lecture archive possible. Learn about our contributors, maintainers, and how to get involved in the quantum computing community."
+description: "Meet the community members who make this lecture archive possible. Learn about our team, contributors, maintainers, and how to get involved in the quantum computing community."
 ---
 
-# Contributors
+# Our Team
 
 This archive is made possible by community members who contribute their time and expertise.
 
-## Project Maintainers
+## Founder & Community Builder
+
+<div class="contributor-card" markdown style="margin-top: -35px;">
+
+### Dr. Taha Selim
+![Dr. Taha Selim](../assets/contributors/dr-taha-selim.png){ width="150" align="left" style="border-radius: 8px; margin-right: 20px; margin-top: -15px;" }
+
+**Role:** Founder & Community Builder  
+**LinkedIn:** [linkedin.com/in/tiselim](https://www.linkedin.com/in/tiselim/)  
+**X (Twitter):** [@TahaISelim](https://x.com/TahaISelim)  
+**Contribution:** Founded and built the Egypt Quantum Computing
+
+</div>
+
+## Team Members
+
+<div class="team-grid" markdown>
 
 <div class="contributor-card" markdown>
 
-### [Your Name]
-![Your Name](../assets/contributors/your-photo.jpg){ width="150" align="left" style="border-radius: 8px; margin-right: 20px;" }
+### Asmaa Mahmoud Saafan
+![Asmaa Mahmoud Saafan](../assets/contributors/asmaa-saafan.PNG){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+
+**Role:** Vice President  
+📧 [asmaa.safan@yahoo.com](mailto:asmaa.safan@yahoo.com)  
+📘 [Facebook](https://www.facebook.com/asmaa.saafan.3)  
+💼 [LinkedIn](https://www.linkedin.com/in/asmaa-saafan-592231171)
+
+</div>
+
+<div class="contributor-card" markdown>
+
+### Gamal Moneep
+![Gamal Moneep](../assets/contributors/gamal-moneep.JPG){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
 **Role:** Archive Creator & Maintainer  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**X (Twitter):** [@yourusername](https://twitter.com/yourusername)  
+💼 [LinkedIn](https://www.linkedin.com/in/gamal-moneep/)  
+🐦 [Twitter](https://x.com/zmoneep)  
 **Contribution:** Created and maintains the lecture archive platform
 
 </div>
 
-## Content Contributors
-
 <div class="contributor-card" markdown>
 
-### [Lecturer Name]
-![Lecturer Name](../assets/contributors/lecturer-photo.jpg){ width="150" align="left" style="border-radius: 8px; margin-right: 20px;" }
+### Ahmed El-Taher
+![Ahmed El-Taher](../assets/contributors/ahmed-el-taher.png){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
-**Role:** Weekly Lecture Series  
-**LinkedIn:** [linkedin.com/in/lecturer](https://linkedin.com/in/lecturer)  
-**X (Twitter):** [@lecturer](https://twitter.com/lecturer)  
-**Contribution:** Delivers weekly lectures on Quantum Computing
+**Role:** Team Member  
+**Contribution:** Active community contributor
 
 </div>
 
 <div class="contributor-card" markdown>
 
-### [Event Organizer Name]
-![Organizer Name](../assets/contributors/organizer-photo.jpg){ width="150" align="left" style="border-radius: 8px; margin-right: 20px;" }
+### Mohammed Nabil
+![Mohammed Nabil](../assets/contributors/mohammed-nabil.jpg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
-**Role:** Events Coordinator  
-**LinkedIn:** [linkedin.com/in/organizer](https://linkedin.com/in/organizer)  
-**X (Twitter):** [@organizer](https://twitter.com/yourusername)  
-**Contribution:** Organizes and hosts monthly community events
+**Role:** Team Member  
+**Contribution:** Active community contributor
+
+</div>
+
+<div class="contributor-card" markdown>
+
+### Abdelrahman Elsayed
+![Abdelrahman Elsayed](../assets/contributors/abdelrahman-elsayed.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+
+**Role:** Team Member  
+**Contribution:** Active community contributor
+
+</div>
+
+<div class="contributor-card" markdown>
+
+### Omar Sobhy
+![Omar Sobhy](../assets/contributors/omar-sobhy.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+
+**Role:** Team Member  
+**Contribution:** Active community contributor
+
+</div>
+
+<div class="contributor-card" markdown>
+
+### Muhammad Fergany
+![Muhammad Fergany](../assets/contributors/muhammad-fergany.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+
+**Role:** Team Member  
+**Contribution:** Active community contributor
+
+</div>
+
+<div class="contributor-card" markdown>
+
+### Ziad Tarek
+![Ziad Tarek](../assets/contributors/ziad-tarek.JPG){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+
+**Role:** Team Member  
+**Contribution:** Active community contributor
+
+</div>
+
+<div class="contributor-card" markdown>
+
+### Ahmed Saad El Fiky
+![Ahmed Saad El Fiky](../assets/contributors/ahmed-saad-el-fiky.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+
+**Role:** Team Member  
+**Contribution:** Active community contributor
+
+</div>
+
+<div class="contributor-card" markdown>
+
+### Moataz Mohamed
+![Moataz Mohamed](../assets/contributors/moataz-mohamed.jpg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+
+**Role:** Team Member  
+**Contribution:** Active community contributor
+
+</div>
 
 </div>
 

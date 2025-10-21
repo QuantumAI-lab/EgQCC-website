@@ -43,6 +43,26 @@ Meet our [contributors](contributors/index.md) and get involved
 
 </div>
 
+## 📢 Important News
+
+<div class="news-section" markdown>
+
+### 🎉 **Latest Community Updates**
+
+We're excited to share the latest developments in our quantum computing community:
+
+- **🚀 New 2025 Events**: Hackathons, Summer School, and Dry-run sessions are now available
+- **👥 Team Expansion**: Welcome our new team members who are contributing to the community
+- **📚 Enhanced Archive**: Monthly Series and Quantum AI Lab content now accessible
+- **🔧 Platform Updates**: Improved navigation and search functionality
+
+**Stay connected with our community:**
+- 📧 Email updates for new content
+- 📱 Social media announcements
+- 💬 Community discussions and Q&A sessions
+
+</div>
+
 ## Stay Updated
 
 - **🆕 New Lectures**: Added weekly with fresh content

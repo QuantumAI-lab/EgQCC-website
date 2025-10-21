@@ -71,8 +71,17 @@ nav:
   - Events:
       - Overview: events/index.md
       - "January 2024 Community Meetup": events/january-2024.md
+  - "2025 Events":
+      - Overview: 2025/index.md
+      - "Hackathon": 2025/hackathon/index.md
+      - "Summer School": 2025/summer-school/index.md
+      - "Dry Run Hackathon": 2025/dry-run-hackathon/index.md
+  - "Monthly Series":
+      - Overview: monthly-series/index.md
+  - "Quantum AI Lab":
+      - Overview: quantum-ai-lab/index.md
   - Resources: resources/index.md
-  - Contributors: contributors/index.md
+  - "Our Team": contributors/index.md
 
 extra_css:
   - assets/stylesheets/extra.css
