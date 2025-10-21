@@ -2,6 +2,7 @@
 site_name: Community Quantum Computing Archive
 site_description: Archive of monthly events, quantum AI lab series, and educational content with links to videos and resources
 site_url: https://gamalmoneep.github.io/Quantum_ai/
+# Updated to trigger deployment
 site_author: Egypt Quantum Computing and Quantum AI Community
 copyright: Egypt Quantum Computing and Quantum AI Community
 
