@@ -1,7 +1,7 @@
 # SEO and site configuration
 site_name: Community Quantum Computing Archive
 site_description: Archive of monthly events, quantum AI lab series, and educational content with links to videos and resources
-site_url: http://127.0.0.1:8000/
+site_url: https://gamalmoneep.github.io/Quantum_ai/
 site_author: Egypt Quantum Computing and Quantum AI Community
 copyright: Egypt Quantum Computing and Quantum AI Community
 
