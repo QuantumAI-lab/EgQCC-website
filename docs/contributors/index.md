@@ -53,8 +53,9 @@ This archive is made possible by community members who contribute their time and
 ### Ahmed El-Taher
 ![Ahmed El-Taher](../assets/contributors/ahmed-el-taher.png){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
-**Role:** Team Member  
-**Contribution:** Active community contributor
+**Role:** Director, Directorate of Community Development & Outreach  
+📧 [ahmed.g.eltaher@gmail.com](mailto:ahmed.g.eltaher@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ahmed-el-taher/)
 
 </div>
 
@@ -63,48 +64,55 @@ This archive is made possible by community members who contribute their time and
 ### Mohammed Nabil
 ![Mohammed Nabil](../assets/contributors/mohammed-nabil.jpg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
-**Role:** Team Member  
-**Contribution:** Active community contributor
+**Role:** Organizer  
+📧 [mnabilm58@gmail.com](mailto:mnabilm58@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/m-nabil950)
 
 </div>
 
 <div class="contributor-card" markdown>
 
-### Abdelrahman Elsayed
-![Abdelrahman Elsayed](../assets/contributors/abdelrahman-elsayed.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+### Abdelrahman Elsayed Ahmed
+![Abdelrahman Elsayed Ahmed](../assets/contributors/abdelrahman-elsayed.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
-**Role:** Team Member  
-**Contribution:** Active community contributor
-
-</div>
-
-<div class="contributor-card" markdown>
-
-### Omar Sobhy
-![Omar Sobhy](../assets/contributors/omar-sobhy.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
-
-**Role:** Team Member  
-**Contribution:** Active community contributor
+**Role:** Quantum AI Lab  
+📧 [abdo.elsayd102@gmail.com](mailto:abdo.elsayd102@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-elsayed-4230b5261/)
 
 </div>
 
 <div class="contributor-card" markdown>
 
-### Muhammad Fergany
-![Muhammad Fergany](../assets/contributors/muhammad-fergany.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+### Omar Sobhy Abouelela
+![Omar Sobhy Abouelela](../assets/contributors/omar-sobhy.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
-**Role:** Team Member  
-**Contribution:** Active community contributor
+**Role:** Director of Digital Communications & Outreach / Mentor  
+📧 [omar.sobhy808@gmail.com](mailto:omar.sobhy808@gmail.com)  
+📘 [Facebook](https://www.facebook.com/omar.sobhy.5811/)  
+💼 [LinkedIn](https://www.linkedin.com/in/omar-sobhy-a191a5268/)
 
 </div>
 
 <div class="contributor-card" markdown>
 
-### Ziad Tarek
-![Ziad Tarek](../assets/contributors/ziad-tarek.JPG){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+### Muhammad Fergany Khalil
+![Muhammad Fergany Khalil](../assets/contributors/muhammad-fergany.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
-**Role:** Team Member  
-**Contribution:** Active community contributor
+**Role:** PR & Partnerships & Business Development  
+📧 [fergany92@gmail.com](mailto:fergany92@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ferganykhalil)
+
+</div>
+
+<div class="contributor-card" markdown>
+
+### Ziad Tarek Mohamed
+![Ziad Tarek Mohamed](../assets/contributors/ziad-tarek.JPG){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+
+**Role:** Quantum Labs Coordinator  
+📧 [ziadt160@gmail.com](mailto:ziadt160@gmail.com)  
+📘 [Facebook](https://www.facebook.com/ziad.tarek.50999/)  
+💼 [LinkedIn](https://www.linkedin.com/in/ziad-tarek-4089a7116)
 
 </div>
 
@@ -113,18 +121,21 @@ This archive is made possible by community members who contribute their time and
 ### Ahmed Saad El Fiky
 ![Ahmed Saad El Fiky](../assets/contributors/ahmed-saad-el-fiky.jpeg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
-**Role:** Team Member  
-**Contribution:** Active community contributor
+**Role:** QML Lab Coordinator  
+📧 [ah.saadfiky@gmail.com](mailto:ah.saadfiky@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/saadfiky)
 
 </div>
 
 <div class="contributor-card" markdown>
 
-### Moataz Mohamed
-![Moataz Mohamed](../assets/contributors/moataz-mohamed.jpg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
+### Moataz Mohamed Fayek
+![Moataz Mohamed Fayek](../assets/contributors/moataz-mohamed.jpg){ width="120" style="border-radius: 8px; margin-bottom: 10px;" }
 
-**Role:** Team Member  
-**Contribution:** Active community contributor
+**Role:** Web Development  
+📧 [moataz5197@gmail.com](mailto:moataz5197@gmail.com)  
+📘 [Facebook](https://www.facebook.com/share/1DVYvzpmkm/)  
+💼 [LinkedIn](https://www.linkedin.com/in/moataz-mohamed-fayek)
 
 </div>
 

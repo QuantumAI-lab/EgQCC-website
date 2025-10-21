@@ -1,8 +1,9 @@
 # SEO and site configuration
-site_name: Community Lecture Archive
-site_description: Archive of weekly lectures and monthly events with links to videos and resources
-site_url: https://gamalmoneep.github.io/Quantum_ai/
-site_author: Quantum Computing Community
+site_name: Community Quantum Computing Archive
+site_description: Archive of monthly events, quantum AI lab series, and educational content with links to videos and resources
+site_url: http://127.0.0.1:8000/
+site_author: Egypt Quantum Computing and Quantum AI Community
+copyright: Egypt Quantum Computing and Quantum AI Community
 
 # SEO keywords and meta
 extra:
@@ -16,17 +17,15 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   version:
     provider: mike
+  generator: false
 
 # Performance and SEO optimizations
 use_directory_urls: true
-strict: true
+strict: false
 
 # SEO plugins
 plugins:
   - search
-  - git-revision-date-localized:
-      enable_creation_date: true
-      fallback_to_build_date: true
 
 # Additional theme features
 theme:
@@ -60,28 +59,61 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   logo: assets/logo.png
+  custom_dir: overrides
 
 nav:
   - Home: index.md
-  - Lectures:
-      - Overview: lectures/index.md
-      - "Week 1: Introduction to Quantum Computing": lectures/week-01.md
-      - "Week 2: Quantum Algorithms": lectures/week-02.md
-      - "Week 3: Quantum Machine Learning": lectures/week-03.md
+  - 2025 Activities:
+      - Year Overview: 2025/index.md
+      - July - Virtual Dry-Run Hackathon:
+          - Event Overview: 2025/dry-run-hackathon/index.md
+          - "Day 1 S1: Alexandria Dry-Run Opening": 2025/dry-run-hackathon/day-1-s1-alexandria-dry-run-hackathon-july-2025-ال.md
+          - "Day 1 S2: Art of Presentation": 2025/dry-run-hackathon/day-1-s2-noha-ismails-art-of-presentation-كيف-تقدم.md
+          - "Day 2 S1: Quantum Chemistry": 2025/dry-run-hackathon/day-2-s1-quantum-computing-for-quantum-chemistry-t.md
+          - "Day 2 S2: Linear Algebra": 2025/dry-run-hackathon/day-2-s2-linear-algebra-ziad-tarek-الجبر-الخطى.md
+          - "Day 2 S3: Qiskit & Quantum ML": 2025/dry-run-hackathon/day-2-s3-qiskit-and-quantum-machine-learning-ahmed.md
+          - "Day 2 S4: GitHub for Code Control": 2025/dry-run-hackathon/day-2-s4-how-to-use-github-for-code-control-abdulr.md
+          - "Day 3 S1: Qiskit & IBM Quantum": 2025/dry-run-hackathon/day3-s1-qiskit-ibm-quantum-and-ibm-quantum-cloud-a.md
+      - August - Quantum Summer School:
+          - Program Details: 2025/summer-school/index.md
+          - "Day 1: Linear Algebra & Data Visualization": 2025/summer-school/quantum-summer-school-day-1-linear-algebra-data-vi.md
+          - "Day 2: Machine Learning": 2025/summer-school/quantum-summer-school-day-2-machine-learning-abdel.md
+          - "Day 3: Quantum Machine Learning": 2025/summer-school/quantum-summer-school-day-3-quantum-machine-learni.md
+          - "Day 4: Quantum Optimization": 2025/summer-school/quantum-summer-school-day-4-quantum-optimization-n.md
+          - "Day 5: qBraid Training Session": 2025/summer-school/quantum-summer-school-day-5-qbraid-training-sessio.md
+      - September - Alexandria Quantum Hackathon:
+          - Event Details: 2025/hackathon/index.md
+          - "Day 1: Opening Ceremony": 2025/hackathon/alex-quantum-hackathon-day-1-opening-ceremony-quan.md
+          - "Day 2: Quantum Systems": 2025/hackathon/alex-quantum-hackathon-day-2-part-1-quantum-system.md
+          - "Day 3: Team Presentations": 2025/hackathon/alex-quantum-hackathon-day-3-team-presentations.md
+          - "Day 3: Winners Announcement": 2025/hackathon/alex-quantum-hackathon-day-3-winners-announcement-.md
+
+  - Quantum AI Lab:
+      - Series Overview: quantum-ai-lab/index.md
+      - "Quantum Computing Algorithms Quantum ...": quantum-ai-lab/quantum-computing-algorithms-quantum-ai-lab-s1-مقد.md
+      - "Quantum Computing Algorithms Quantum ...": quantum-ai-lab/quantum-computing-algorithms-quantum-ai-lab-s3-مقد.md
+      - "Quantum Computing Algorithms Quantum ...": quantum-ai-lab/quantum-computing-algorithms-quantum-ai-lab-s4-مقد.md
+      - "Quantum Computing Algorithms Quantum ...": quantum-ai-lab/quantum-computing-algorithms-quantum-ai-lab-s7-مرا.md
+      - "Quantum Ai Lab 8 Two Qubit Simulator ...": quantum-ai-lab/quantum-ai-lab-8-two-qubit-simulator-تطوير-برنامج-.md
+      - "Quantum Ai Lab 9 Quantum Error Correc...": quantum-ai-lab/quantum-ai-lab-9-quantum-error-correction-with-3-q.md
+      - "Quantum Ai Lab 10 Quantum Computing O...": quantum-ai-lab/quantum-ai-lab-10-quantum-computing-of-quantum-che.md
+      - "Quantum Ai Lab Bibliotheca Alexandrin...": quantum-ai-lab/quantum-ai-lab-bibliotheca-alexandrina-iqafé-editi.md
+
+  - Monthly Series:
+      - Series Overview: monthly-series/index.md
+      - "Quantum Ai 4 Q Leadership Qc Energy L...": monthly-series/quantum-ai-4-q-leadership-qc-energy-limitation-sur.md
+      - "Quantum Ai 5 Machine Learning Quantum...": monthly-series/quantum-ai-5-machine-learning-quantum-machine-lear.md
+      - "Quantum Ai6 Quantum Education Quantum...": monthly-series/quantum-ai6-quantum-education-quantum-technologies.md
+      - "Quantum Ai7 Quantum Communications En...": monthly-series/quantum-ai7-quantum-communications-encryption-and-.md
+      - "Hpc Quantum Computing Ai Quantum Ai B...": monthly-series/hpc-quantum-computing-ai-quantum-ai-bibliotheca-al.md
+      - "Quantum Encryption Quantum Ai Bibliot...": monthly-series/quantum-encryption-quantum-ai-bibliotheca-alexandr.md
+      - "Quantum Modelling Agents Quantum Ai B...": monthly-series/quantum-modelling-agents-quantum-ai-bibliotheca-al.md
+
   - Events:
       - Overview: events/index.md
       - "January 2024 Community Meetup": events/january-2024.md
-  - "2025 Events":
-      - Overview: 2025/index.md
-      - "Hackathon": 2025/hackathon/index.md
-      - "Summer School": 2025/summer-school/index.md
-      - "Dry Run Hackathon": 2025/dry-run-hackathon/index.md
-  - "Monthly Series":
-      - Overview: monthly-series/index.md
-  - "Quantum AI Lab":
-      - Overview: quantum-ai-lab/index.md
   - Resources: resources/index.md
-  - "Our Team": contributors/index.md
+  - Our Team: contributors/index.md
 
 extra_css:
   - assets/stylesheets/extra.css
@@ -101,6 +133,10 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - toc:
-      permalink: true
+      permalink: false
+      baselevel: 1
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 
 

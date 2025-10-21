@@ -1,19 +1,49 @@
 ---
-description: "Community Lecture Archive - Weekly quantum computing lectures and monthly events with videos, slides, and resources. Learn from experts and join our community."
+description: "Community Quantum Computing Archive - Monthly events, quantum AI lab series, and educational content with videos, slides, and resources. Learn from experts and join our community."
 ---
 
-# Community Lecture Archive
+# Community Quantum Computing Archive
 
-Welcome to the Quantum Computing Community Lecture Archive! This platform hosts weekly lectures and monthly events designed to help you learn and grow in the field of quantum computing.
+Welcome to the Quantum Computing Community Archive! This platform hosts monthly events, quantum AI lab series, and educational content designed to help you learn and grow in the field of quantum computing.
+
+## 📢 Important News
+
+<div class="news-section" markdown>
+
+### 🎉 **2025 Quantum Summer School - Registration Open!**
+**📅 August 2025** | **📍 Alexandria, Egypt**
+
+Join us for an intensive month-long quantum computing program featuring:
+- 🏫 **Daily Lectures** - Core quantum computing concepts
+- 🛠️ **Hands-on Labs** - Practical quantum programming
+- 👥 **Expert Mentorship** - Guidance from industry professionals
+- 🏆 **Final Project** - Build your own quantum application
+
+**[Register Now →](2025/summer-school/index.md)** | **Deadline: July 15, 2025**
+
+---
+
+### 🚀 **Alexandria Quantum Hackathon 2025**
+**📅 September 3-5, 2025** | **📍 Alexandria, Egypt**
+
+48-hour competitive innovation event with:
+- 💰 **$10,000 Prize Pool** - Multiple categories and awards
+- 🏢 **Industry Partners** - IBM, Google, Microsoft participation
+- 🎓 **Student Teams** - University and professional teams welcome
+- 🏆 **Innovation Focus** - Real-world quantum applications
+
+**[Learn More →](2025/hackathon/index.md)** | **Early Bird Registration: July 1**
+
+---
+
+### 📚 **New Content Added**
+- ✅ **Quantum AI Lab Series** - 8 new sessions available
+- ✅ **Monthly Series** - 12 educational videos uploaded
+- ✅ **Resource Library** - Updated with latest materials
+
+</div>
 
 ## What You'll Find Here
-
-### 📚 **Weekly Lectures**
-Comprehensive lectures covering quantum computing fundamentals, algorithms, and practical applications. Each lecture includes:
-- 🎥 Video recordings with expert explanations
-- 📄 Downloadable slides and materials
-- 💻 Code repositories with examples
-- 📝 Version history for updates
 
 ### 🎯 **Monthly Events**
 Community meetups featuring:
@@ -29,49 +59,35 @@ Meet the experts and community members who make this archive possible. From lect
 
 <div class="getting-started-grid" markdown>
 
-### 1. **Browse Lectures**
-Start with [Week 1: Introduction to Quantum Computing](lectures/week-01.md) for fundamentals
+### 1. **2025 Activities**
+- [July: Virtual Dry-Run Hackathon](2025/dry-run-hackathon/index.md) - Preparation workshops and training
+- [August: Quantum Summer School](2025/summer-school/index.md) - Intensive month-long program
+- [September: Alexandria Quantum Hackathon](2025/hackathon/index.md) - Competitive innovation event (Sept 3-5)
+- [View All 2025 Activities](2025/index.md) - Complete program overview
 
-### 2. **Join Events**
+### 2. **Explore Series**
+- [Quantum AI Lab Series](quantum-ai-lab/index.md) - Advanced quantum AI research
+- [Monthly Series](monthly-series/index.md) - Regular educational content
+
+### 3. **Join Events**
 Check out our [monthly community meetups](events/january-2024.md)
 
-### 3. **Explore Resources**
+### 4. **Explore Resources**
 Find additional materials in our [resources section](resources/index.md)
 
-### 4. **Connect**
+### 5. **Connect**
 Meet our [contributors](contributors/index.md) and get involved
-
-</div>
-
-## 📢 Important News
-
-<div class="news-section" markdown>
-
-### 🎉 **Latest Community Updates**
-
-We're excited to share the latest developments in our quantum computing community:
-
-- **🚀 New 2025 Events**: Hackathons, Summer School, and Dry-run sessions are now available
-- **👥 Team Expansion**: Welcome our new team members who are contributing to the community
-- **📚 Enhanced Archive**: Monthly Series and Quantum AI Lab content now accessible
-- **🔧 Platform Updates**: Improved navigation and search functionality
-
-**Stay connected with our community:**
-- 📧 Email updates for new content
-- 📱 Social media announcements
-- 💬 Community discussions and Q&A sessions
 
 </div>
 
 ## Stay Updated
 
-- **🆕 New Lectures**: Added weekly with fresh content
 - **📹 Event Recordings**: Available within 48 hours of live events
 - **📚 Material Updates**: Slides and code repositories updated regularly
 - **📢 Community News**: Follow our social channels for announcements
 
 ---
 
-*This archive is maintained by the quantum computing community. Interested in contributing? [Learn how to get involved](contributors/index.md#how-to-contribute).*
+*This archive is maintained by the Egypt Quantum Computing and Quantum AI Community. Interested in contributing? [Learn how to get involved](contributors/index.md#how-to-contribute).*
 
 
