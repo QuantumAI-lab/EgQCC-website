@@ -2,7 +2,7 @@
 site_name: Community Quantum Computing Archive
 site_description: Archive of monthly events, quantum AI lab series, and educational content with links to videos and resources
 site_url: https://quantumai-lab.github.io/EgQCC-website/
-# Updated to trigger deployment
+# Updated to trigger deployment from master branch
 site_author: Egypt Quantum Computing and Quantum AI Community
 copyright: Egypt Quantum Computing and Quantum AI Community
 
