@@ -1,27 +1,17 @@
 ---
-description: "Egypt Community Quantum Computing Archive - Monthly events, quantum AI lab series, and educational content with videos, slides, and resources. Learn from experts and join our community."
+description: "Community Quantum Computing Archive - Monthly events, quantum AI lab series, and educational content with videos, slides, and resources. Learn from experts and join our community."
 ---
 
-<!-- Header Section with Logo -->
+<!-- Header with Transparent Logo -->
 <div class="site-header">
   <div class="header-content">
     <div class="logo-container">
-      <img src="EGQCCLOGO.jpeg" alt="Quantum Computing Community Logo" class="site-logo">
+      <img src="egyqcc.png" alt="Egypt Quantum Computing Community Logo" class="transparent-logo">
     </div>
     <div class="header-text">
-      <h1 class="site-title">Egypt Community Quantum Computing</h1>
-      <p class="site-tagline">Learn • Build • Connect • Innovate</p>
+      <h1 class="site-title">Welcome to Egypt Community Quantum Computing Archive</h1>
     </div>
   </div>
-</div>
-
-<!-- Navigation Menu (Optional) -->
-<div class="main-nav">
-  <a href="#news">📢 News</a>
-  <a href="#events">🎯 Events</a>
-  <a href="#resources">📚 Resources</a>
-  <a href="#community">👥 Community</a>
-  <a href="#get-started">🚀 Get Started</a>
 </div>
 
 
