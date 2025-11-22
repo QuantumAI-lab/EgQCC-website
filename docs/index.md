@@ -1,10 +1,12 @@
 ---
-description: "Community Quantum Computing Archive - Monthly events, quantum AI lab series, and educational content with videos, slides, and resources. Learn from experts and join our community."
+description: "Egypt Community Quantum Computing Archive - Monthly events, quantum AI lab series, and educational content..."
 ---
 
-# Community Quantum Computing Archive
+<!-- Logo added here -->
+<div style="text-align: center; margin-bottom: 2rem;">
+    <img src="EGQCCLOGO.jpeg" alt="Egypt Quantum Computing Community Logo" width="200">
+</div>
 
-Welcome to the Quantum Computing Community Archive! This platform hosts monthly events, quantum AI lab series, and educational content designed to help you learn and grow in the field of quantum computing.
 
 ## 📢 Important News
 
