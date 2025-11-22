@@ -391,7 +391,7 @@
     }
 }
 
-/* Logo size customization - Make logo bigger and more visible */
+/* Logo size customization - Make logo bigger and more visible
 .md-header__button.md-logo {
     margin: 0;
     padding: 0.4rem;
@@ -405,7 +405,7 @@
     max-height: 60px !important;
 }
 
-/* On mobile, make logo slightly smaller but still visible */
+/* On mobile, make logo slightly smaller but still visible
 @media (max-width: 768px) {
     .md-header__button.md-logo img,
     .md-header__button.md-logo svg {
@@ -420,4 +420,85 @@
         width: 120px !important;
         max-height: 45px !important;
     }
+} */
+/* ===== QUANTUM COMMUNITY LOGO STYLING ===== */
+
+/* Main logo container in header */
+.md-header__button.md-logo {
+    margin: 0;
+    padding: 0.3rem;
+    background: transparent !important;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+}
+
+.md-header__button.md-logo:hover {
+    background: rgba(255,255,255,0.1) !important;
+}
+
+/* Logo image/svg styling */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    width: 200px !important;
+    height: auto !important;
+    max-width: none !important;
+    max-height: 70px !important;
+    
+    /* Transparency and modern effects */
+    filter: 
+        drop-shadow(0 2px 4px rgba(26, 35, 126, 0.2))
+        brightness(1.05);
+    opacity: 0.95;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    
+    /* Ensure crisp rendering */
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+}
+
+/* Hover effects */
+.md-header__button.md-logo:hover img,
+.md-header__button.md-logo:hover svg {
+    transform: scale(1.05);
+    opacity: 1;
+    filter: 
+        drop-shadow(0 4px 8px rgba(26, 35, 126, 0.3))
+        brightness(1.1);
+}
+
+/* Mobile adjustments */
+@media screen and (max-width: 76.1875em) {
+    .md-header__button.md-logo {
+        padding: 0.2rem;
+    }
+    
+    .md-header__button.md-logo img,
+    .md-header__button.md-logo svg {
+        width: 160px !important;
+        max-height: 55px !important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .md-header__button.md-logo img,
+    .md-header__button.md-logo svg {
+        width: 140px !important;
+        max-height: 50px !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .md-header__button.md-logo img,
+    .md-header__button.md-logo svg {
+        width: 120px !important;
+        max-height: 45px !important;
+    }
+}
+
+/* Dark mode support */
+[data-md-color-scheme="slate"] .md-header__button.md-logo img,
+[data-md-color-scheme="slate"] .md-header__button.md-logo svg {
+    filter: 
+        drop-shadow(0 2px 4px rgba(0,0,0,0.3))
+        brightness(1.1);
 }
