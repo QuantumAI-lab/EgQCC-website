@@ -1,5 +1,5 @@
 # SEO and site configuration
-site_name: Community Quantum Computing Archive
+site_name: Egypt Community Quantum Computing Archive
 site_description: Archive of monthly events, quantum AI lab series, and educational content with links to videos and resources
 site_url: https://quantumai-lab.github.io/EgQCC-website/
 # Updated to trigger deployment from master branch
@@ -59,7 +59,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
-  logo: assets/logo.png
+  logo: assets/egyqcc.png
   custom_dir: overrides
 
 nav:
